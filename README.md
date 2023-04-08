@@ -2,5 +2,5 @@
 ###### This microservice is part of the ambientePrueba Environment
 The code contained in this repo whas generated using accelerate automatic code generator.
 
-To start the microservice first run `npm install --save` to install the project dependancies.
+To start the microservice first run `npm install --save` to install the project dependencies.
 Next run `npm start` to start the server.
